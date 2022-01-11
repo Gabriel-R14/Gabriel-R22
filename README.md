@@ -43,7 +43,5 @@
   <a href="https://twitter.com/Ga_briel22_">
   <img align="center" alt="Twitter" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
 </div>
-  
-<div>
-  ![Snake animation](https://github.com/Gabriel-R22/Gabriel-R22/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+![Snake animation](https://github.com/Gabriel-R22/Gabriel-R22/blob/output/github-contribution-grid-snake.svg)

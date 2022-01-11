@@ -1,12 +1,12 @@
-### Hi there 👋                                          
+### Opa, Seja bem vindo ao meu perfil! 👋                                          
 
 
-- 🔭 I’m 13                                               
-- 🌱 I’m currently learning Python                          
-- 😄 Pronouns: He/His
-- 🌐 Country: Brazil
-- 🏎️ I like Formula One
-- 🎵 I'm from Rock
+- 🔭 13 anos                                               
+- 🌱 Atualmente estou estudando Python                          
+- 😄 Pronomes: He/His
+- 🌐 País: Brazil
+- 🏎️ Fã de Fórmula 1
+- 🎵 Curto rock
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 

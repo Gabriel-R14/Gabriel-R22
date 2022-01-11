@@ -4,7 +4,7 @@
 - 🔭 13 anos                                               
 - 🌱 Atualmente estou estudando Python                          
 - 😄 Pronomes: Ele/Dele
-- 🌐 País: Brazil
+- 🌐 País: Brasil
 - 🏎️ Fã de Fórmula 1
 - 🎵 Curto rock
 
@@ -43,3 +43,8 @@
   <a href="https://twitter.com/Ga_briel22_">
   <img align="center" alt="Twitter" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
 </div>
+  
+<div>
+  <a href="https://steamcommunity.com/id/Gabriel-R22/">
+  <img align="center" alt="Steam" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" />
+</div

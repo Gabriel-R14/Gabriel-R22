@@ -3,7 +3,7 @@
 
 - 🔭 13 anos                                               
 - 🌱 Atualmente estou estudando Python                          
-- 😄 Pronomes: He/His
+- 😄 Pronomes: Ele/Dele
 - 🌐 País: Brazil
 - 🏎️ Fã de Fórmula 1
 - 🎵 Curto rock

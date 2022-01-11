@@ -20,4 +20,7 @@
 
 ### Social Media:
 
-<img align="center" alt="Twitter" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" href="https://twitter.com/Ga_briel22_" />
+<div>
+  <a href="https://twitter.com/Ga_briel22_">
+  <img align="center" alt="Twitter" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
+</div>

@@ -43,4 +43,6 @@
   <img align="center" alt="Steam" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" />
   <a href="https://open.spotify.com/user/1bgtn9e8enraj69rsekffsqvw"> 
   <img align="center" alt="Spotify" height="60" widht="60" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png" />
+  <a href="https://www.reddit.com/user/Gabriel-R22">
+  <img align="center" alt="Reddit" height="60" widht="60" src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" />
 </div

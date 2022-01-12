@@ -22,6 +22,8 @@
 ### Linguagens:
 
 <div>
+  <a href="https://en.wikipedia.org/wiki/Ayrton Senna">
+  <img align="right" height="90em" src="https://c.tenor.com/RYUp8kK4w3sAAAAM/racing-sparks.gif"/>
   <a href="https://www.python.org/">
   <img align="center" alt="Python" height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>

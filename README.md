@@ -19,13 +19,19 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Linguagens:
+### Estudando:
 
 <div>
   <a href="https://en.wikipedia.org/wiki/Ayrton Senna">
   <img align="right" height="90em" src="https://c.tenor.com/RYUp8kK4w3sAAAAM/racing-sparks.gif"/>
   <a href="https://www.python.org/">
   <img align="center" alt="Python" height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <img align="center" alt="HTML" height="70em" src="https://logospng.org/download/html-5/logo-html-5-2048.png"
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <img align="center" alt="CSS" height="70em" src="https://logospng.org/download/css-3/logo-css-3-2048.png"
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <img align="center" alt="JavaScript" height="60em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
 </div>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------

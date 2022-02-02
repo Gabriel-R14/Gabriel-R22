@@ -3,7 +3,7 @@
 <img align="right" alt="Alonso" height="150em" src="https://tenor.com/view/f1-formula1-formula-one-fernando-alonso-alonso-gif-12688281.gif" />
 
   - 🔭 13 anos                                               
-  - 🌱 Atualmente estou estudando Python                          
+  - 🌱 Programador de Python básico                          
   - 😄 Pronomes: Ele/Dele
   - 🌐 País: Brasil
   - 🏎️ Fã de Fórmula 1

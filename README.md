@@ -3,11 +3,8 @@
 <img align="right" alt="Alonso" height="150em" src="https://tenor.com/view/f1-formula1-formula-one-fernando-alonso-alonso-gif-12688281.gif" />
 
   - 🔭 14 anos                                               
-  - 🌱 Programador de Python básico                          
-  - 😄 Pronomes: Ele/Dele
+  - 🌱 Programador em Python                           
   - 🌐 País: Brasil
-  - 🏎️ Fã de Fórmula 1
-  - 🎵 Curto rock
  
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,13 +43,7 @@
 ### Redes Sociais:
 
 <div>
-  <a href="https://twitter.com/Ga_briel22_">
+  <a href="https://twitter.com/Ga_briel_R14">
   <img align="center" alt="Twitter" height="70" width="70" src="https://blog.cancaonova.com/brasilia/files/2017/08/twitter-icon-circle-blue-logo-preview-400x400.png" />
-  <a href="https://steamcommunity.com/id/Gabriel-R22/">
-  <img align="center" alt="Steam" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" />
-  <a href="https://open.spotify.com/user/1bgtn9e8enraj69rsekffsqvw"> 
-  <img align="center" alt="Spotify" height="60" widht="60" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png" />
-  <a href="https://www.reddit.com/user/Gabriel-R22">
-  <img align="center" alt="Reddit" height="60" widht="60" src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" />
 </div
  

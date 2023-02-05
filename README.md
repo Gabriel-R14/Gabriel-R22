@@ -34,7 +34,6 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div>
-  <a href="https://open.spotify.com/playlist/4diZl6gD3aUIcOWl3GnDYF">
   <img align="right" height="160em" src="https://cdn.discordapp.com/attachments/930496753164251227/930517771136163860/eolnd5fsw3o61.jpg"/>
   <a href="https://en.wikipedia.org/wiki/Ayrton_Senna">
   <img align="right" height="160em" src="http://3.bp.blogspot.com/-STbskeERyy4/UiKF26E5uKI/AAAAAAAAN6s/5d-1GCaBL74/s1600/senna_1993_blog.jpg"/>
